@@ -1,4 +1,4 @@
-> TODO: Provide some texts arround the different subjects
+> TODO: Provide some texts around the different subjects
 
 # OID4VCI: Issuance of PIDs (Q)EAAs
 
