@@ -2,13 +2,13 @@
 
 # OID4VCI: Issuance of PIDs (Q)EAAs
 
-See [Authorized code flow Issuance](./Issuance-Authorization-code.md) for an explanation of
-the [flow diagram](../assets/Issuance-Authorization-code.svg)
+See [Authorized code flow Issuance](./issuance#metadata) for an explanation of
+the [flow diagram]({{'/assets/Issuance-Authorization-code.svg' | relative_url}})
 
 # OID4VP: Verification of PIDs and (Q)EAAs
 
 See [Cross Device OID4VP](./OID4VP-cross-device.md) for an explanation of
-the [flow diagram](../assets/OID4VP-cross-device.svg)
+the [flow diagram]({{'../assets/OID4VP-cross-device.svg' | relative_url}})
 
 
 ## Presentation Exchange

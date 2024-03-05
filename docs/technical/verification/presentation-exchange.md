@@ -1,3 +1,8 @@
+---
+layout: page
+title: Presentation Exchange
+---
+
 # Presentation Exchange
 
 Whenever the `response_type` of the `Request Object` contains the value `vp_token`, `code` and

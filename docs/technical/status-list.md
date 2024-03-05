@@ -1,3 +1,7 @@
+---
+layout: page
+title: Revocation
+---
 # Statuslist
 
 A StatusList allows you to revoke or suspend credentials at an individual level. This is possible by incorporating some
