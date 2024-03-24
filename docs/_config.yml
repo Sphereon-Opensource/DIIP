@@ -21,7 +21,7 @@
 title: DIIP
 email: support@sphereon.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site contains the functional and technical components, requirements and architecture for the NGI DDIP
+  This site contains the functional and technical components, requirements and architecture for the NGI DIIP
   project. You will need to support these specification in order for your software solution to be compatible with it.
 github_username:  cm@sphereon.com
 repository: Sphereon-OpenSource/DIIP
