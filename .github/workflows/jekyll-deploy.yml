@@ -46,6 +46,7 @@ jobs:
           # Outputs to the './_site' directory by default
         run: |
           cd docs
+          bundle lock --add-platform x86_64-linux
           bundle install
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
           cd ..
