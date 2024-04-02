@@ -3,11 +3,13 @@
 - name: Technical
   link: /technical/
   dropdown:
+    - name: Spec
+      link: /technical/
     - name: Issuance
       link: /technical/issuance/
+    - name: Presentation Exchange
+      link: /technical/presentation-exchange/
     - name: Verification
       link: /technical/verification/
     - name: Revocation
       link: /technical/status-list/
-- name: Glossary
-  link: /glossary/

@@ -70,7 +70,7 @@ body/payload:
 
 ```
 
-See also: [Presentation Exchange explanation](./presentation-exchange)
+See also: [Presentation Exchange explanation](presentation-exchange.md)
 
 17. The RP website return the signed Authorization Request Object JWT
 18. The wallet validates the Authorization Request signature (JWT) using the RP's public key
