@@ -4,6 +4,12 @@ title: Verification
 ---
 # OID4VP vp_token cross-device flow
 
+
+See source [Diagram]({{ site.assets_src }}/OID4VP-cross-device.puml) or ![Image]({{'/assets/OID4VP-cross-device.svg' | relative_url}})
+{{'/assets/OID4VP-cross-device.svg' | relative_url}}
+
+[Plant UML source]({{ site.assets_src }}/Issuance-Authorization-code.puml)
+
 1. User browses to Relying Party (RP) website
 2. Browser on the user's device opens the Resource server/website associated with the RP on a device different from its
    wallet

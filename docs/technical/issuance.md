@@ -5,8 +5,10 @@ title: Issuance
 
 ## Issuance using Authorization Code flow
 
-See source [Diagram]({{ site.assets_src }}/Issuance-Authorization-code.puml) or [Image]({{'/assets/Issuance-Authorization-code.svg' | relative_url}})
+See source [Diagram]({{ site.assets_src }}/Issuance-Authorization-code.puml) or ![Image]({{'/assets/Issuance-Authorization-code.svg' | relative_url}})
 {{'/assets/Issuance-Authorization-code.svg' | relative_url}}
+
+[Plant UML source]({{ site.assets_src }}/Issuance-Authorization-code.puml)
 
 ### Initialization:
 1. **(Wallet initiated)** The user opens and unlocks the wallet .
