@@ -59,9 +59,6 @@ mean that other frameworks or technical interactions would not be supported.
 
 # (Q)EAA Issuance
 
-## High level PID flow
-
-> TODO
 
 ## High level (Q)EAA issuance flow
 
@@ -145,9 +142,3 @@ The steps involved:
 7. **Resource Access:** Upon successful verification of the ID token and verifiable presentation, the RP can use the
    information to grant access to resources or services for the authenticated user.
 
-# Authentication
-
-
-## SIOPv2
-
-# Trust

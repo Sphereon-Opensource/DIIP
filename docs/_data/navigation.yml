@@ -13,3 +13,5 @@
       link: /technical/verification/
     - name: Revocation
       link: /technical/status-list/
+    - name: Trust Management
+      link: /technical/trust-management/
